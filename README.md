@@ -1,0 +1,4 @@
+goofspiel-library
+=================
+
+in python
